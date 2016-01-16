@@ -1,0 +1,9 @@
+Building LuckyBlocks
+
+See doc/readme-qt.rst for instructions on building LuckyBlocks QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of LuckyBlocks.
+
+See doc/build-*.txt for instructions on building LuckyBlocksd,
+the intended-for-services, no-graphical-interface, reference
+implementation of LuckyBlocks.
